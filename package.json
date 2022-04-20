@@ -1,0 +1,16 @@
+{
+  "name": "clmt-software",
+  "version": "1.0.0",
+  "description": "a simple ERP builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "erp",
+    "builder",
+    "pucminas"
+  ],
+  "author": "Matheus Augusto",
+  "license": "ISC"
+}
